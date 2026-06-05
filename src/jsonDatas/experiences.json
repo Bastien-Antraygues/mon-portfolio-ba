@@ -1,0 +1,38 @@
+{
+    "experiences": [
+        {
+            "id": 1,
+            "title": "Alternance Concepteur développeur d’application",
+            "dateStart": "2023-10-01",
+            "dateEnd": "2024-09-30",
+            "moisStart": "Octobre",
+            "moisEnd": "Septembre",
+            "company" : "Dawan",
+            "lieu" : "Toulouse",
+            "description": "- Projet en groupe\n- Développement Front-end Angular\n- Développement Back-end Java Spring boot\n- Conception des maquettes\n- Conception Lean Canvas, Backlog et diagramme d’utilisation\n- Utilisation méthode CERISE"
+            
+        },
+        {
+            "id": 2,
+            "title": "Développeur stagiaire immersion",
+            "dateStart": "2022-10-10",
+            "dateEnd": "2022-10-17",
+            "moisStart": "Octobre",
+            "moisEnd": "Octobre",
+            "company" : "The Seed Crew",
+            "lieu" : "Labège",
+            "description": "Stage d’observation d’une semaine :\n-Suivi de la gestion de projet sprint, méthode agile\n-Développeur web JavaScript\n-Aperçu de Bleuprint partie interface"
+        },
+        {
+            "id": 3,
+            "title": "Développeur site web métier stagiaire",
+            "dateStart": "2019-04-08",
+            "dateEnd": "2019-06-30",
+            "moisStart": "Avril",
+            "moisEnd": "Juin",
+            "company" : "SAS REVO",
+            "lieu" : "Blagnac",
+            "description": "Développement d’un site web métier pour l’aide à l’enfance en PHP (10 semaine) mission :\n- Conception d’un cahier des charges\n- Mise en place d’un registre et d’une analyse d’impact en rapport à la RGPD\n- Mettre en place les fonctionnalités du site\n- Amélioration de la base de donnée"
+        }
+    ]
+}

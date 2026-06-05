@@ -1,0 +1,3 @@
+export const homeText = `Je suis Bastien, jeune développeur junior je suis passionné par le développement web depuis mes années de lycée, j’ai décidé de me spécialisé dans ce domaine. Mes études et expériences professionnel m’ont permis de montée en compétences dans le développement front-end et back-end, je maîtrise les stack Angular et Spring Boot.
+Actuellement en recherche d’une alternance je souhaite travaillé dans une entreprise qui à des valeurs humaine et dans lequel je vais pouvoir m’épanouir, montée en compétences, apprendre de nouvelle compétence.
+`
