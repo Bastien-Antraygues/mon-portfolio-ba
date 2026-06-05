@@ -1,9 +1,21 @@
 @import "tailwindcss";
 
 @theme{
-    --color-vs-blue: #007acc;
-    --color-vs-dark-1: #3e3e42;
-    --color-vs-dark-2: #2d2d30;
-    --color-vs-dark-3: #252526;
-    --color-vs-dark-4: #1e1e1e;
+    /* Dark Gray Colors Background */
+    --color-darkGray-1 : #111111;
+    --color-darkGray-2 : #191919;
+    /* Dark Gray Colors Interactive Components */
+    --color-darkGray-3 : #222222;
+    --color-darkGray-4 : #2A2A2A;
+    --color-darkGray-5 : #313131;
+    /* Dark Gray Colors Borders and separators */
+    --color-darkGray-6 : #3A3A3A;
+    --color-darkGray-7 : #484848;
+    --color-darkGray-8 : #606060;
+    /* Dark Gray Colors Solids colors */
+    --color-darkGray-9 : #6E6E6E;
+    --color-darkGray-10 : #7B7B7B;
+    /* Dark Gray Colors Text */
+    --color-darkGray-11 : #B4B4B4;
+    --color-darkGray-12 : #EEEEEE;
 }
