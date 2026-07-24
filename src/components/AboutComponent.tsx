@@ -1,6 +1,8 @@
 import { useState } from "react"
 import { aboutText } from "../texts/AboutText"
 import { MyExperience } from "./abouts/MyExperience"
+import { MyFormation } from "./abouts/MyFormation"
+import { MyInteret } from "./abouts/MyInteret"
 // max-w-2xl
 export function AboutComponent (){
     const title ="À propos de moi"
@@ -33,6 +35,8 @@ export function AboutComponent (){
                 </button>
             </div>
             {activeButton === "experience" && <MyExperience />}
+            {activeButton === "formation" && <MyFormation />}
+            {activeButton === "interests" && <MyInteret />}
         </div>
     )
 
