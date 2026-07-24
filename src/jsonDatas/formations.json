@@ -1,0 +1,81 @@
+{
+    "formations": [
+        {
+            "id":1,
+            "title": "Formation de début de master en développement fullstack",
+            "dateStart": "2025-09-27",
+            "dateEnd": "2025-12-31",
+            "moisStart": "Septembre",
+            "moisEnd": "Décembre",
+            "school" : "Ynov",
+            "lieu" : "Toulouse",
+            "description": "Cour de gestion de projet, React, NodeJs, ExpressJs, MongoDB."
+        },
+        {
+            "id":2,
+            "title":"Concepteur développeur d'applications titre de niveau 6 ( bac+3 )",
+            "dateStart": "2023-10-01",
+            "dateEnd": "2024-09-30",
+            "moisStart": "Octobre",
+            "moisEnd": "Septembre",
+            "school" : "ParDawan",
+            "lieu" : "Toulouse",
+            "description": "Java SE, JavaFx, UML 2, Mavan, Angular, Spring MVC, Architecture logicielle et implémentation de tests, GIT"
+        },
+        {
+            "id":3,
+            "title": "POEI Java",
+            "dateStart": "2023-06-19",
+            "dateEnd": "2023-09-20",
+            "moisStart": "Juin",
+            "moisEnd": "Septembre",
+            "school" : "Dawan",
+            "lieu" : "Toulouse",
+            "description": "Formation de trois mois début le 19 juin et fini le 20 septembre\nJava SE initiation, Maven, JPA HIbernate, Développement d’applications web Spring, React + Redux, JavaScript / EcmaScript"
+        },
+        {
+            "id":4,
+            "title": "Auto-formation en développement fullstack et C++",
+            "dateStart": "2022-11-01",
+            "dateEnd": "2023-01-25",
+            "moisStart": "Novembre",
+            "moisEnd": "Janvier",
+            "school" : "occitanie-eformation",
+            "lieu" : "Distanciel",
+            "description": "Angular , ASP .NET , Lavarel, Symfony, PHP, JavaScript, React, Java, C, C++"
+        },
+        {
+            "id":5,
+            "title": "Prépa en art appliqué",
+            "dateStart": "2020-09-01",
+            "dateEnd": "2023-06-30",
+            "moisStart": "Septembre",
+            "moisEnd": "Juin",
+            "school" : "Brassart",
+            "lieu" : "Toulouse",
+            "description": "Découverte des logiciels Illustrator, Photoshop et 3ds max (autodesk)"
+        },
+        {
+            "id":6,
+            "title": "DUT Informatique",
+            "dateStart": "2017-09-01",
+            "dateEnd": "2019-06-30",
+            "moisStart": "Septembre",
+            "moisEnd": "Juin",
+            "school" : "IUT Blagnac",
+            "lieu" : "Blagnac",
+            "description": "Les langages HTML, CSS, PHP, C+, Phyton, Java et SQL."
+        },
+        {
+            "id":7,
+            "title": "Baccalauréat STI2D option SIN",
+            "dateStart": "2015-09-01",
+            "dateEnd": "2017-06-30",
+            "moisStart": "Septembre",
+            "moisEnd": "Juin",
+            "school" : "Lycée Déodat de Séverac",
+            "lieu" : "Toulouse",
+            "description": "Systèmes d'information et numérique. "
+        }
+    ]
+}
